@@ -1,0 +1,40 @@
+<projectDescription>
+  <id>1291517402760</id>
+  <name>Final</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/Josh/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/Josh/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///C|/Users/ScreamRawr/Desktop/Final3.0/PolarityPrototype.fla</defaultApp>
+  <rootURI>file:///C|/Users/ScreamRawr/Desktop/Final3.0/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="PolarityPrototype.fla">file:///C|/Users/ScreamRawr/Desktop/Final3.0/PolarityPrototype.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="Wall.as">file:///C|/Users/ScreamRawr/Desktop/Final3.0/Wall.as</uri>
+    <uri label="Turret.as">file:///C|/Users/ScreamRawr/Desktop/Final3.0/Turret.as</uri>
+    <uri label="SmokeTrail.as">file:///C|/Users/ScreamRawr/Desktop/Final3.0/SmokeTrail.as</uri>
+    <uri label="PositiveTurret.as">file:///C|/Users/ScreamRawr/Desktop/Final3.0/PositiveTurret.as</uri>
+    <uri label="PositiveMagnet.as">file:///C|/Users/ScreamRawr/Desktop/Final3.0/PositiveMagnet.as</uri>
+    <uri label="PolarityIndicator.as">file:///C|/Users/ScreamRawr/Desktop/Final3.0/PolarityIndicator.as</uri>
+    <uri label="Player.as">file:///C|/Users/ScreamRawr/Desktop/Final3.0/Player.as</uri>
+    <uri label="NegativeTurret.as">file:///C|/Users/ScreamRawr/Desktop/Final3.0/NegativeTurret.as</uri>
+    <uri label="NegativeMagnet.as">file:///C|/Users/ScreamRawr/Desktop/Final3.0/NegativeMagnet.as</uri>
+    <uri label="Main.as">file:///C|/Users/ScreamRawr/Desktop/Final3.0/Main.as</uri>
+    <uri label="Magnet.as">file:///C|/Users/ScreamRawr/Desktop/Final3.0/Magnet.as</uri>
+    <uri label="LevelManager.as">file:///C|/Users/ScreamRawr/Desktop/Final3.0/LevelManager.as</uri>
+    <uri label="LevelEnd.as">file:///C|/Users/ScreamRawr/Desktop/Final3.0/LevelEnd.as</uri>
+    <uri label="Drone.as">file:///C|/Users/ScreamRawr/Desktop/Final3.0/Drone.as</uri>
+    <uri label="Demagnetizer.as">file:///C|/Users/ScreamRawr/Desktop/Final3.0/Demagnetizer.as</uri>
+    <uri label="Collision.as">file:///C|/Users/ScreamRawr/Desktop/Final3.0/Collision.as</uri>
+    <uri label="CheckPoint.as">file:///C|/Users/ScreamRawr/Desktop/Final3.0/CheckPoint.as</uri>
+    <uri label="Camera.as">file:///C|/Users/ScreamRawr/Desktop/Final3.0/Camera.as</uri>
+    <uri label="Bullet.as">file:///C|/Users/ScreamRawr/Desktop/Final3.0/Bullet.as</uri>
+    <uri label="PolarityPrototype.fla">file:///C|/Users/ScreamRawr/Desktop/Final3.0/PolarityPrototype.fla</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
